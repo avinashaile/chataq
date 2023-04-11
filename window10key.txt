@@ -1,0 +1,8 @@
+open cmd as - Run as Administrator
+
+C:\Windows\system32>slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+
+Reference:
+https://msguides.com/windows-10/amp
+
+
